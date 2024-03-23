@@ -9,7 +9,7 @@ tugas untuk menyelesaikan kelas mata kuliah pemrograman web. project ini masih b
 saya menggunkan hostingan gratis yang di sediakan oleh layanan Github, untuk link di bawah ini dapat di copy dan paste pada pada browser anda
 
 ```bash
- https://izhar-kadir-saputra.github.io/pemogramanWeb/#
+ https://izhar-kadir-saputra.github.io/pemogramanWeb/
 ```
 
 
