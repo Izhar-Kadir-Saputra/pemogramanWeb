@@ -42,7 +42,7 @@ data user telah login maka status login jadi true
 <br></be>
 
 ## enkripsi password
-saya menggunakan enkripsi algoritma password sederhana yang di sediakan oleh javascrip yaitu fungsi "btoa" binar to ASCII
+saya menggunakan enkripsi algoritma password sederhana yang di sediakan oleh javascrip yaitu fungsi "btoa" binari to ASCII dengan mengubah nilai string
 
 ![App Screenshot](./images/enkripsipassword.png)
 <br></br>
