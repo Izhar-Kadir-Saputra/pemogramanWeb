@@ -19,7 +19,7 @@ untuk nama localstorage dengan key "users"
 ![App Screenshot](./images/dataUser.png)
 
 ## data user setelah regis
-data user telah registrasi dan dan belum login
+data user telah registrasi dan belum login
 
 ![App Screenshot](./images/userregis.png)
 
