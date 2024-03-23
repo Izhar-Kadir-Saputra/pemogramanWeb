@@ -3,7 +3,6 @@
 
 tugas untuk menyelesaikan kelas mata kuliah pemrograman web. project ini masih berisi HTML dan javascript, untuk penggunaan CSS hanya di bagian Navbar. Pada project ini saya belum menggunakan database saya masih menggunakan localStorage untuk penyimpanan data sementara
 <br></br>
-<br></br>
 
 ## Hosting
 
