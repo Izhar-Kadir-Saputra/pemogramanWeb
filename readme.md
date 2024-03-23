@@ -1,7 +1,7 @@
 
 # pemrograman web
 
-tugas untuk menyelesaikan kelas mata kuliah pemrograman web. project ini masih berisi HTML dan javascript, untuk penggunaan CSS hanya di bagian Navbar
+tugas untuk menyelesaikan kelas mata kuliah pemrograman web. project ini masih berisi HTML dan javascript, untuk penggunaan CSS hanya di bagian Navbar. Pada project ini juga saya belum menggunakan database hanya memanfaatkan localstorage untuk penyimpanan data sementara.
 
 
 ## Hosting
