@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+    
+    <div class="navbar">
+        <a href="../index.html">Home</a>
+        <a href="about.html">About</a>
+        <div class="dropdown">
+        <button class="dropbtn">Dropdown
+            <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+        </div>
+        </div>
+    </div>
+
+    <h1>ini buku</h1>
+
+    <!-- input News -->
+    <div class="inputNews">
+
+        <div>
+            <label for="judul">Judul Buku:</label>
+            <input type="text" id="judul">
+        </div>
+        
+        <div>
+            <label for="gambar">Gambar Buku:</label>
+            <input type="file" id="gambar" accept="image/*">
+        </div>
+        
+        <div>
+            <label for="paragraf">tentang Buku:</label>
+            <textarea id="paragraf" rows="4"></textarea>
+        </div>
+    </div>
+        
+    <button onclick="tampilkanBerita()">Tampilkan Buku</button>
+
+    <div id="news-container"></div>
+    
+</body>
+<script src="../scripts/script.js"></script>
+</html>
